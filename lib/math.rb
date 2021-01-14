@@ -19,7 +19,7 @@ end
 puts division(50,2 )
 
 def multiplication(num1, num2)
-multiplication1 num1 * num2 
+multiplication1 = num1 * num2 
 multiplication1 
 end
 puts multiplication(4,30)
