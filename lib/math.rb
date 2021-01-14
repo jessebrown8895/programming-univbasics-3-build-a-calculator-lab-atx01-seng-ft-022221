@@ -32,5 +32,6 @@ end
 puts modulo(34, 5)
 
 def square_root(num)
-
+num = 81 
+sq
 end
