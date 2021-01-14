@@ -10,19 +10,23 @@ subtraction = num1 - num2
 subtraction 
 end
 puts subtraction(10,5)
+
 def division(num1, num2)
 division = num1 / num2 
 division
 end
+
 puts division(50,2 )
+
 def multiplication(num1, num2)
 
 end
 
 def modulo(num1, num2)
-
+multiplication num1 % num2
+multiplication
 end
-
+puts modulo
 def square_root(num)
 
 end
