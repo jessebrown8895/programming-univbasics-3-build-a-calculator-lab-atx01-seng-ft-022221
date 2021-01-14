@@ -32,9 +32,9 @@ end
 puts modulo(34, 5)
 
 def square_root(num)
-  Math.sqrt(num)
+  Math.sqrt(81)
   num 
 end
 
-puts square_root(81)
+puts square_root
 
