@@ -12,19 +12,20 @@ end
 puts subtraction(10,5)
 
 def division(num1, num2)
-division = num1 / num2 
-division
+division1 = num1 / num2 
+division1
 end
 
 puts division(50,2 )
 
 def multiplication(num1, num2)
-
+multiplication1 num1 * num2 
+multiplication1 
 end
+puts multiplication
 
 def modulo(num1, num2)
-multiplication num1 % num2
-multiplication
+
 end
 puts modulo
 def square_root(num)
